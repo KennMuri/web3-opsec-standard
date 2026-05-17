@@ -1,4 +1,7 @@
 # Web3 OpSec Standard (W3OS)
+<p align="center">
+  <img src="/images/contributors/W3OS Logo.svg" width="450" />
+</p>
 
 [![Version](https://img.shields.io/badge/version-1.0.0--draft-orange.svg)](https://github.com/web3-opsec-standard/releases)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
